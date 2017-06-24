@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_digital.xml",
+        "source": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\src\\main\\res\\layout\\activity_digital.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_model.xml",
+        "source": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\src\\main\\res\\layout\\activity_model.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\build\\intermediates\\res\\merged\\debug\\layout\\custom_toast.xml",
+        "source": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\src\\main\\res\\layout\\custom_toast.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_index_ebooks.xml",
+        "source": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\src\\main\\res\\layout\\activity_index_ebooks.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search.xml",
+        "source": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_index_gallery_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\src\\main\\res\\layout\\activity_index_gallery_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_personal.xml",
+        "source": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\src\\main\\res\\layout\\activity_personal.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_index_digital.xml",
+        "source": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\src\\main\\res\\layout\\activity_index_digital.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register_normal.xml",
+        "source": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\src\\main\\res\\layout\\activity_register_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_category.xml",
+        "source": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\src\\main\\res\\layout\\activity_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_clothes.xml",
+        "source": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\src\\main\\res\\layout\\activity_clothes.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_index.xml",
+        "source": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\src\\main\\res\\layout\\activity_index.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\build\\intermediates\\res\\merged\\debug\\layout\\exit_dialog_from_settings.xml",
+        "source": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\src\\main\\res\\layout\\exit_dialog_from_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_more.xml",
+        "source": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\src\\main\\res\\layout\\activity_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cart.xml",
+        "source": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\src\\main\\res\\layout\\activity_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\build\\intermediates\\res\\merged\\debug\\layout\\app_search_toolbar_button.xml",
+        "source": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\src\\main\\res\\layout\\app_search_toolbar_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_index_daily.xml",
+        "source": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\src\\main\\res\\layout\\activity_index_daily.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_index_clothingcity.xml",
+        "source": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\src\\main\\res\\layout\\activity_index_clothingcity.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_shake.xml",
+        "source": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\src\\main\\res\\layout\\activity_shake.xml"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\build\\intermediates\\res\\merged\\debug\\layout\\activity_category_item.xml",
+        "source": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\src\\main\\res\\layout\\activity_category_item.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\android_title_button_pressed.9.png",
+        "source": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\src\\main\\res\\drawable-xhdpi\\android_title_button_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cart_login_normal.9.png",
+        "source": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\src\\main\\res\\drawable-xhdpi\\cart_login_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\exit_dialog_bg.9.png",
+        "source": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\src\\main\\res\\drawable-xhdpi\\exit_dialog_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_style_zero_normal.9.png",
+        "source": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\src\\main\\res\\drawable-xhdpi\\btn_style_zero_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_style_zero_pressed.9.png",
+        "source": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\src\\main\\res\\drawable-xhdpi\\btn_style_zero_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_style_zero_focused.9.png",
+        "source": "C:\\Users\\asus\\Desktop\\AlipayUtil-master\\JD\\src\\main\\res\\drawable-xhdpi\\btn_style_zero_focused.9.png"
+    }
+]
